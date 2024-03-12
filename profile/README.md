@@ -1,7 +1,13 @@
 # Logistics Ecosystem
 
-![banner](resources/photo_2023-11-18_21-06-36.jpg)
+![banner](https://github.com/logistics-ecosystem/.github/blob/main/resources/photo_2023-11-18_21-06-36.jpg)
 
 ## Architecture
-![System Architecture](resources/System.png)
-![Diagrams](resources/Diagram.png)
+
+### System Architecture
+![System Architecture](https://github.com/logistics-ecosystem/.github/blob/main/resources/System.png)
+
+---
+
+### Diagrams
+![Diagrams](https://github.com/logistics-ecosystem/.github/blob/main/resources/Diagram.png)
